@@ -1,1 +1,1 @@
-echo " Solutions is AWESOME!!!!” > third_file.txt git add third_file.txt
+echo “SP Solutions is AWESOME!!!!” > third_file.txt
