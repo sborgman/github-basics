@@ -1,1 +1,1 @@
-s is my first file for the git-basics tutorial
+sthis file is for the git-basics tutorial
