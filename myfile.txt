@@ -1,1 +1,1 @@
-sthis file is for the git-basics tutorial
+this file is for the git-basics tutorial
